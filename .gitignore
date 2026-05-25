@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+ffmpeg.zip
+downloads/
+vector_db/
+*.sqlite3
+.vscode/
+*.wav
+*.mp3
+*.mp4
+*.webm
